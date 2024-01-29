@@ -1,1 +1,3 @@
-console.log("hellow")
+function test1(slide1, slide2, slide3){
+    
+}
